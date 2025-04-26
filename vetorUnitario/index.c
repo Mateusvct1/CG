@@ -1,5 +1,5 @@
-#include "normalizacao.h"
-// 6 - Normalizando o vetor
+#include "../normalizacao/normalizacao.h"
+// 8 - Normalizando o vetor
 int main(){
     
     int x, y, z;

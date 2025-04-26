@@ -1,6 +1,8 @@
 #include "somaDeVetores.h"
 #include "subDeVetores.h"
 #include <stdio.h>
+
+// 4 - soma e subtração de vetores
 int main()
 {
     int a[3], b[3], res;

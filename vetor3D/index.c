@@ -1,5 +1,5 @@
 #include "vet3D.h"
-
+//1 - Encontrando o vetor a partir dos pontos(3D)
 int main(){
    int a[3], b[3];
    printf("Digite o primeiro ponto a = (x1, y1, z1):");

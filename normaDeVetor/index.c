@@ -1,5 +1,5 @@
 #include "norma.h"
-
+// 2 - Encontrando a norma dos vetores
 int main(){
     int a[3];
     printf("Digite o ponto a = (x, y, z): (digite um espaco entre os numeros)\n");

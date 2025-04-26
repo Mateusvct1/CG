@@ -1,5 +1,5 @@
 #include "vet2D.h"
-
+//1 - Encontrando o vetor a partir dos pontos(2D)
 int main(){
    int a[2], b[2];
    printf("Digite o primeiro ponto a = (x1, y1): ");

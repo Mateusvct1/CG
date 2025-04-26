@@ -7,6 +7,8 @@ deslocamento/*.exe
 multPorEscalar/*.exe
 normaDeVetor/*.exe
 normalizacao/*.exe
+multPorEscalar/*.exe
 produtoVetorial/*.exe
+somaDeVetores/*.exe
 vetor2D/*.exe
 vetor3D/*.exe

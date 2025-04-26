@@ -1,7 +1,7 @@
 #include "deslocamentoSub.h"
 #include "deslocamentoSum.h"
 #include <stdio.h>
-
+// 3 - Realizando o deslocamento dos pontos usando os vetores
 int main()
 {
 
