@@ -1,6 +1,6 @@
 #include "produtoVetorial.h"
 
-
+// 9 - produto vetorial 
 int main(){
     int x[2],y[2],z[2];
     for(int i=0;i<2;i++){
